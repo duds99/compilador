@@ -1,0 +1,2 @@
+Analise lexica feita com sucesso!
+25 :tipos incompatíveis [n]

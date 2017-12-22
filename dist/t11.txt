@@ -1,0 +1,50 @@
+Analise lexica feita com sucesso!
+const CONST 1   0
+integer INTEGER 2   0
+byte BYTE 3   0
+string STRING 4   0
+while WHILE 5   0
+if IF 6   0
+else ELSE 7   0
+and AND 8   0
+or OR 9   0
+not NOT 10   0
+== == 11   0
+= = 12   0
+( ( 13   0
+) ) 14   0
+< < 15   0
+> > 16   0
+<> <> 17   0
+>= >= 18   0
+<= <= 19   0
+, , 20   0
++ + 21   0
+- - 22   0
+* * 23   0
+/ / 24   0
+; ; 25   0
+{ { 26   0
+} } 27   0
+readln READLN 28   0
+write WRITE 29   0
+writeln WRITELN 30   0
+TRUE TRUE 31   0
+FALSE FALSE 32   0
+boolean BOOLEAN 33   0
+then THEN 34   0
+n identificador 35 var INTEGER 10002
+nome identificador 36 var STRING 10258
+nome1 identificador 37 var STRING 10514
+nome2 identificador 38 var STRING 10770
+naoTerminou identificador 39 var BOOLEAN 10771
+MAXITER identificador 40 const INTEGER 10773
+10 constante 41   0
+"compiladores" constante 42   0
+"nome1 e nome2 sao iguais" constante 43   0
+"nome1 e nome2 sao diferentes" constante 44   0
+"Digite seu nome: " constante 45   0
+0 constante 46   0
+"Ola' " constante 47   0
+1 constante 48   0
+Analise sintatica e semantica feita com sucesso!

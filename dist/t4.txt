@@ -1,0 +1,2 @@
+Analise lexica feita com sucesso!
+13 :tipos incompatíveis [200]
